@@ -1,15 +1,14 @@
 # Bludylan Cyrus Pizarra
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub%20Profile-BluPizarra-404258?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BluPizarra)
-[![Academic](https://img.shields.io/badge/APC-BSIT%20Information%20Technology-474E68?style=for-the-badge)](https://www.apc.edu.ph/)
-[![React](https://img.shields.io/badge/React-50577A?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
-[![Vite](https://img.shields.io/badge/Vite-6B728E?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-404258?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![MySQL](https://img.shields.io/badge/MySQL-474E68?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Python](https://img.shields.io/badge/Python-50577A?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-6B728E?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Arduino](https://img.shields.io/badge/Arduino-404258?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-474E68?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![React](https://img.shields.io/badge/React-474E68?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-50577A?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-6B728E?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![MySQL](https://img.shields.io/badge/MySQL-404258?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Python](https://img.shields.io/badge/Python-474E68?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-50577A?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Arduino](https://img.shields.io/badge/Arduino-6B728E?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-404258?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 > Information Technology undergraduate at Asia Pacific College specializing in frontend engineering, database systems, digital logic, and interactive user experiences.
 
